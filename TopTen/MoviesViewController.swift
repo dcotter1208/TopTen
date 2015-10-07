@@ -10,7 +10,7 @@ import UIKit
 
 class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
-    var movies = ["Blow", "Bourne Identity", "Bourne Supremacy", "Bourne Ulitmatum", "Casino", "Goodfellas", "The Wolf of Wallstreet", "8", "9", "10"]
+    var movies = ["Blow", "Bourne Identity", "Bourne Supremacy", "Bourne Ulitmatum", "Casino", "Goodfellas", "The Wolf of Wallstreet", "21 Jump Street", "Office Space", "This Is The End"]
     
     
     override func viewDidLoad() {

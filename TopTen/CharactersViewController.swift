@@ -11,7 +11,7 @@ import UIKit
 class CharactersViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
     
-    var characters = ["Walter White", "Mac - It's Always Sunny", "Michael Scott", "Ray Donovan", "Micky Donovan", "Tony Soprano", "7", "8", "9", "10"]
+    var characters = ["Walter White", "Mac - It's Always Sunny", "Michael Scott", "Ray Donovan", "Micky Donovan", "Tony Soprano", "Ron Swanson", "Peter Griffin", "Randy Marsh", "Jesse Pinkman", "Ross Geller"]
     
     override func viewDidLoad() {
         super.viewDidLoad()

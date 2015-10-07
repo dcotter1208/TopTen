@@ -10,7 +10,7 @@ import UIKit
 
 class SongsViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
-    var songs = ["Ray Charles - Georgia", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+    var songs = ["Ray Charles - Georgia On My Mind", "Jay-Z - Allure", "Otis Redding - The Dock Of The Bay", "Eminem - Till I Collapse", "The Rolling Stones - Can't You Hear Me Knocking", "The Notorious B.I.G. - Hypnotize", "K-Ci & JoJo - All My Life", "Boyz II Men - Motown Philly", "Usher - Nice & Slow", "Tupac - I Ain't Mad At Cha"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
